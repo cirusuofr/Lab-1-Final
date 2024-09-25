@@ -1,17 +1,17 @@
 # Project Title
 
-**Project Description:** This project is a simple demonstration of Markdown elements.
+**Project Description:** ENEL 374
 
 ## Features
 
 - *Easy to use*
 - **Lightweight**
-- Compatible with multiple platforms
+- PRoject
 
 ## Simple Table
 
 | Feature    | Description           |
 |------------|-----------------------|
-| *Speed*    | Fast performance      |
-| **Design** | Minimalistic layout   |
-| Support    | Community-driven      |
+| *A*    | 1 |
+| **B** | 2 |
+| C    | 3 |
